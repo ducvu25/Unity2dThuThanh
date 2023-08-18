@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20f87f7f95dcacb49b357e4e4553cacb, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  _id: E1
+  _name: Test 1
+  _information: Test 1
+  _sprite: {fileID: 21300000, guid: 3f5b302f67e2fc24ba1ff12ffd0da746, type: 3}
+  price: 200 C0
+  pricePass: 5 C1
+  _quality: 1
+  _lv: 1
+  _exp: 0
+  _expMax: 10
+  _hp: 10
+  _dame: 0
+  _speed: 2
+  _distance: 0
+  _time_spawn: 0

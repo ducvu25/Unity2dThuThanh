@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d7c7d61177e6c4b9f59593cd2184e8, type: 3}
+  m_Name: Critals Red
+  m_EditorClassIdentifier: 
+  _id: C2
+  _name: "Pha \u0111\u1ECF"
+  _information: "Pha \u0111\u1ECF"
+  _sprite: {fileID: 21300000, guid: f27b6ac45bf783340ad9ab9fb3f53a39, type: 3}
+  price: 0
+  pricePass: 0 C0
+  rarity: 2
